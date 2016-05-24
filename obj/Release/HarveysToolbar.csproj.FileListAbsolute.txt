@@ -1,0 +1,6 @@
+C:\Users\Brian\documents\visual studio 2015\Projects\HarveysToolbar\HarveysToolbar\bin\Release\HarveysToolbar.dll
+C:\Users\Brian\documents\visual studio 2015\Projects\HarveysToolbar\HarveysToolbar\bin\Release\HarveysToolbar.pdb
+C:\Users\Brian\documents\visual studio 2015\Projects\HarveysToolbar\HarveysToolbar\obj\Release\HarveysToolbar.csproj.ResolveComReference.cache
+C:\Users\Brian\documents\visual studio 2015\Projects\HarveysToolbar\HarveysToolbar\obj\Release\HarveysToolbar.g.resources
+C:\Users\Brian\documents\visual studio 2015\Projects\HarveysToolbar\HarveysToolbar\obj\Release\HarveysToolbar.dll
+C:\Users\Brian\documents\visual studio 2015\Projects\HarveysToolbar\HarveysToolbar\obj\Release\HarveysToolbar.pdb

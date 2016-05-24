@@ -1,0 +1,8 @@
+Harvey's Spool O' Matic 9000 Installation Instructions:
+
+Prior to installation you will want to make sure Revit is closed.
+In order for the buttons to work properly... 
+You will need to ensure that every project is initially began with the HPH Template 2016.
+If your version of Revit is missing the project template contact Brian and Tyler to get it set up appropriately.
+
+ 
